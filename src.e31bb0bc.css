@@ -444,7 +444,7 @@ img {
 @media screen and (max-width: 767px) {
   .main-nav__list.is-open {
     display: block;
-    padding-left: 40px;
+    padding-left: 15px;
     padding-bottom: 100vw;
     margin-right: 0;
     padding-top: 118px;
@@ -1159,7 +1159,7 @@ img {
 @media screen and (min-width: 768px) {
   .footer-contacts {
     height: 449px;
-    width: 100%;
+    max-width: 768px;
     padding: 100px 39px;
     margin-left: auto;
     margin-right: auto;
